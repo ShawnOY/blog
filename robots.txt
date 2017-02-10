@@ -7,4 +7,3 @@ Disallow: /css/
 Disallow: /fancybox/
 
 Sitemap: https://life.0x427567.com/sitemap.xml
-Sitemap: https://life.0x427567.com/baidusitemap.xml
