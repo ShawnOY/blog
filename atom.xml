@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://life.0x427567.com/"/>
-  <updated>2017-02-22T12:48:17.000Z</updated>
+  <updated>2017-02-22T17:02:08.000Z</updated>
   <id>https://life.0x427567.com/</id>
   
   <author>
@@ -20,15 +20,17 @@
     <link href="https://life.0x427567.com/2017/02/22/%E8%A7%A3%E6%B1%BAWindows-10%E5%81%B5%E6%B8%AC%E4%B8%8D%E5%88%B0iPhone%E6%88%96iPad/"/>
     <id>https://life.0x427567.com/2017/02/22/解決Windows-10偵測不到iPhone或iPad/</id>
     <published>2017-02-22T12:39:54.000Z</published>
-    <updated>2017-02-22T12:48:17.000Z</updated>
+    <updated>2017-02-22T17:02:08.000Z</updated>
     
     <content type="html"><![CDATA[<p>不知道從什麼時候開始家裡的Windows 10無法偵測到我的iPhone 6 Plus，連iTunes也無法偵測到，但是手機使用正常也可以直接使用USB充電，找了很久也試過一堆方式但是完全都沒有作用，最後發現Apple自己就有提供解答了，但是寫的實在有點複雜，如果想直接看Apple文件的請點選下方連結。</p>
-<p><a href="https://support.apple.com/zh-tw/HT204095" rel="external nofollow noopener noreferrer" target="_blank">https://support.apple.com/zh-tw/HT204095</a></p>
-]]></content>
+<p><a href="https://support.apple.com/zh-tw/HT204095" rel="external nofollow noopener noreferrer" target="_blank">https://support.apple.com/zh-tw/HT204095</a><br><a id="more"></a></p>
+<h2 id="步驟一"><a href="#步驟一" class="headerlink" title="步驟一"></a>步驟一</h2><p>在開始尋找<strong>裝置管理員</strong>並且點擊打開。</p>
+<h2 id="步驟二"><a href="#步驟二" class="headerlink" title="步驟二"></a>步驟二</h2>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;不知道從什麼時候開始家裡的Windows 10無法偵測到我的iPhone 6 Plus，連iTunes也無法偵測到，但是手機使用正常也可以直接使用USB充電，找了很久也試過一堆方式但是完全都沒有作用，最後發現Apple自己就有提供解答了，但是寫的實在有點複雜，如果想直接看A
+      &lt;p&gt;不知道從什麼時候開始家裡的Windows 10無法偵測到我的iPhone 6 Plus，連iTunes也無法偵測到，但是手機使用正常也可以直接使用USB充電，找了很久也試過一堆方式但是完全都沒有作用，最後發現Apple自己就有提供解答了，但是寫的實在有點複雜，如果想直接看Apple文件的請點選下方連結。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://support.apple.com/zh-tw/HT204095&quot; rel=&quot;external nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://support.apple.com/zh-tw/HT204095&lt;/a&gt;&lt;br&gt;
     
     </summary>
     
@@ -67,13 +69,13 @@
     </summary>
     
     
-      <category term="台北市" scheme="https://life.0x427567.com/tags/%E5%8F%B0%E5%8C%97%E5%B8%82/"/>
-    
       <category term="夜景" scheme="https://life.0x427567.com/tags/%E5%A4%9C%E6%99%AF/"/>
     
-      <category term="旅遊" scheme="https://life.0x427567.com/tags/%E6%97%85%E9%81%8A/"/>
+      <category term="台北市" scheme="https://life.0x427567.com/tags/%E5%8F%B0%E5%8C%97%E5%B8%82/"/>
     
       <category term="北投區" scheme="https://life.0x427567.com/tags/%E5%8C%97%E6%8A%95%E5%8D%80/"/>
+    
+      <category term="旅遊" scheme="https://life.0x427567.com/tags/%E6%97%85%E9%81%8A/"/>
     
   </entry>
   
@@ -198,13 +200,13 @@
     </summary>
     
     
-      <category term="台北市" scheme="https://life.0x427567.com/tags/%E5%8F%B0%E5%8C%97%E5%B8%82/"/>
-    
-      <category term="內湖區" scheme="https://life.0x427567.com/tags/%E5%85%A7%E6%B9%96%E5%8D%80/"/>
-    
       <category term="夜景" scheme="https://life.0x427567.com/tags/%E5%A4%9C%E6%99%AF/"/>
     
+      <category term="台北市" scheme="https://life.0x427567.com/tags/%E5%8F%B0%E5%8C%97%E5%B8%82/"/>
+    
       <category term="旅遊" scheme="https://life.0x427567.com/tags/%E6%97%85%E9%81%8A/"/>
+    
+      <category term="內湖區" scheme="https://life.0x427567.com/tags/%E5%85%A7%E6%B9%96%E5%8D%80/"/>
     
   </entry>
   
@@ -270,13 +272,13 @@
     </summary>
     
     
-      <category term="台北市" scheme="https://life.0x427567.com/tags/%E5%8F%B0%E5%8C%97%E5%B8%82/"/>
-    
       <category term="夜景" scheme="https://life.0x427567.com/tags/%E5%A4%9C%E6%99%AF/"/>
     
-      <category term="旅遊" scheme="https://life.0x427567.com/tags/%E6%97%85%E9%81%8A/"/>
+      <category term="台北市" scheme="https://life.0x427567.com/tags/%E5%8F%B0%E5%8C%97%E5%B8%82/"/>
     
       <category term="北投區" scheme="https://life.0x427567.com/tags/%E5%8C%97%E6%8A%95%E5%8D%80/"/>
+    
+      <category term="旅遊" scheme="https://life.0x427567.com/tags/%E6%97%85%E9%81%8A/"/>
     
   </entry>
   
