@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://life.0x427567.com/"/>
-  <updated>2017-02-13T06:29:31.000Z</updated>
+  <updated>2017-02-22T12:48:17.000Z</updated>
   <id>https://life.0x427567.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>解決Windows 10偵測不到iPhone或iPad</title>
+    <link href="https://life.0x427567.com/2017/02/22/%E8%A7%A3%E6%B1%BAWindows-10%E5%81%B5%E6%B8%AC%E4%B8%8D%E5%88%B0iPhone%E6%88%96iPad/"/>
+    <id>https://life.0x427567.com/2017/02/22/解決Windows-10偵測不到iPhone或iPad/</id>
+    <published>2017-02-22T12:39:54.000Z</published>
+    <updated>2017-02-22T12:48:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>不知道從什麼時候開始家裡的Windows 10無法偵測到我的iPhone 6 Plus，連iTunes也無法偵測到，但是手機使用正常也可以直接使用USB充電，找了很久也試過一堆方式但是完全都沒有作用，最後發現Apple自己就有提供解答了，但是寫的實在有點複雜，如果想直接看Apple文件的請點選下方連結。</p>
+<p><a href="https://support.apple.com/zh-tw/HT204095" rel="external nofollow noopener noreferrer" target="_blank">https://support.apple.com/zh-tw/HT204095</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;不知道從什麼時候開始家裡的Windows 10無法偵測到我的iPhone 6 Plus，連iTunes也無法偵測到，但是手機使用正常也可以直接使用USB充電，找了很久也試過一堆方式但是完全都沒有作用，最後發現Apple自己就有提供解答了，但是寫的實在有點複雜，如果想直接看A
+    
+    </summary>
+    
+    
+      <category term="教學" scheme="https://life.0x427567.com/tags/%E6%95%99%E5%AD%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>[台北市/北投區]陽明山竹子湖的夜景點</title>
