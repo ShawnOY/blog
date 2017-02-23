@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://life.0x427567.com/"/>
-  <updated>2017-02-22T17:02:08.000Z</updated>
+  <updated>2017-02-23T02:42:09.000Z</updated>
   <id>https://life.0x427567.com/</id>
   
   <author>
@@ -20,12 +20,20 @@
     <link href="https://life.0x427567.com/2017/02/22/%E8%A7%A3%E6%B1%BAWindows-10%E5%81%B5%E6%B8%AC%E4%B8%8D%E5%88%B0iPhone%E6%88%96iPad/"/>
     <id>https://life.0x427567.com/2017/02/22/解決Windows-10偵測不到iPhone或iPad/</id>
     <published>2017-02-22T12:39:54.000Z</published>
-    <updated>2017-02-22T17:02:08.000Z</updated>
+    <updated>2017-02-23T02:42:09.000Z</updated>
     
     <content type="html"><![CDATA[<p>不知道從什麼時候開始家裡的Windows 10無法偵測到我的iPhone 6 Plus，連iTunes也無法偵測到，但是手機使用正常也可以直接使用USB充電，找了很久也試過一堆方式但是完全都沒有作用，最後發現Apple自己就有提供解答了，但是寫的實在有點複雜，如果想直接看Apple文件的請點選下方連結。</p>
 <p><a href="https://support.apple.com/zh-tw/HT204095" rel="external nofollow noopener noreferrer" target="_blank">https://support.apple.com/zh-tw/HT204095</a><br><a id="more"></a></p>
 <h2 id="步驟一"><a href="#步驟一" class="headerlink" title="步驟一"></a>步驟一</h2><p>在開始尋找<strong>裝置管理員</strong>並且點擊打開。</p>
-<h2 id="步驟二"><a href="#步驟二" class="headerlink" title="步驟二"></a>步驟二</h2>]]></content>
+<img src="/2017/02/22/解決Windows-10偵測不到iPhone或iPad/iPhone01.png" alt="打開裝置管理員" title="打開裝置管理員">
+<h2 id="步驟二"><a href="#步驟二" class="headerlink" title="步驟二"></a>步驟二</h2><p>在<strong>可攜式裝置</strong>底下用滑鼠雙擊<strong>Apple iPhone</strong>。</p>
+<img src="/2017/02/22/解決Windows-10偵測不到iPhone或iPad/iPhone02.png" alt="雙撃Apple iPhone" title="雙撃Apple iPhone">
+<h2 id="步驟三"><a href="#步驟三" class="headerlink" title="步驟三"></a>步驟三</h2><p>在<strong>驅動程式</strong>分頁底下點擊**更新驅動程式。</p>
+
+<h2 id="步驟四"><a href="#步驟四" class="headerlink" title="步驟四"></a>步驟四</h2><p>選擇下方的<strong>瀏覽電腦上的驅動程式軟體</strong></p>
+<img src="/2017/02/22/解決Windows-10偵測不到iPhone或iPad/iPhone04.png" alt="瀏覽電腦上的驅動程式軟體" title="瀏覽電腦上的驅動程式軟體">
+<h2 id="步驟五"><a href="#步驟五" class="headerlink" title="步驟五"></a>步驟五</h2><p>搜尋位址輸入：<strong>C:\Program Files\Common Files\Apple\Mobile Device Support\Drivers</strong>，接著按下<strong>下一步</strong>進行安裝，等安裝結束後iPhone就可以正常被Windows 10辨識成功。</p>
+]]></content>
     
     <summary type="html">
     
